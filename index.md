@@ -4,7 +4,7 @@
 - Fun TAs
 - Chill :D
 
-<img src="https://www.icegif.com/wp-content/uploads/kirby-icegif-10.gif">
+<img src="https://www.icegif.com/wp-content/uploads/kirby-icegif-10.gif",width="200px",height="200px">
 
 <!--
 ## Welcome to GitHub Pages
